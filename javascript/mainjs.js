@@ -102,7 +102,7 @@ function validar(nota){
                 
             matricula.push(alumno1);// otra forma de agregar a alumno 1 a un array;
             
-            
+            }
             console.log(matricula);
             console.table (matricula);// muestra el array en forma de tabla
 
